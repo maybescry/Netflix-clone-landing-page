@@ -33,19 +33,19 @@ It focuses on:
 
 - 🎬 **Hero Section with Email Signup**  
 
- ![Hero section](assets/netflix%20homepage.JPG)
+ ![Hero section](Assets/netflix%20homepage.JPG)
 
 - 🎞️ **Trending Now Carousel**  
 
-  ![Trending section](assets/carousel%20section.JPG)
+  ![Trending section](Assets/carousel%20section.JPG)
 
 - ❓ **FAQ Accordion Section**
 
-  ![Faq section](assets/faq%20section.JPG)
+  ![Faq section](Assets/faq%20section.JPG)
 
 - 📱 **Footer Section view**
 
-  ![Footer](assets/footer.JPG)
+  ![Footer](Assets/footer.JPG)
 
 ---
 
