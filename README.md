@@ -32,15 +32,19 @@ It focuses on:
 ## 📸 Screenshots  
 
 - 🎬 **Hero Section with Email Signup**  
+
  ![Hero section](assets/netflix%20homepage.JPG)
 
 - 🎞️ **Trending Now Carousel**  
+
   ![Trending section](assets/carousel%20section.JPG)
 
-- ❓ **FAQ Accordion Section**  
+- ❓ **FAQ Accordion Section**
+
   ![Faq section](assets/faq%20section.JPG)
 
-- 📱 **Footer Section view**  
+- 📱 **Footer Section view**
+
   ![Footer](assets/footer.JPG)
 
 ---
