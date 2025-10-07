@@ -97,7 +97,7 @@ Netflix-Clone-Landing-Page/
 
 ```bash
 
-git clone https://github.com/Hussainshaik-devv/Netflix-Clone-Landing-Page.git
+git clone https://github.com/Hussainshaik-devv/Netflix-clone-landing-page.git
 ```
 
 ## 2. Navigate into the project folder
@@ -139,7 +139,7 @@ Design: Netflix 2025 homepage reference
 
 ## 🏷️ Tags
 
-HTML5 | CSS3 | Bootstrap 5 | JavaScript ES6 | Netflix Clone | Responsive Design | Frontend Project
+## HTML5 | CSS3 | Bootstrap 5 | JavaScript ES6 | Netflix Clone | Responsive Design | Frontend Project
 
 ---
 
