@@ -1,11 +1,11 @@
 # 🎬 Netflix Clone Landing Page
 
-![Repo Size](https://img.shields.io/github/repo-size/Hussainshaik-devv/Netflix-Clone-Landing-Page)  
-![Last Commit](https://img.shields.io/github/last-commit/Hussainshaik-devv/Netflix-Clone-Landing-Page)  
-![Issues](https://img.shields.io/github/issues/Hussainshaik-devv/Netflix-Clone-Landing-Page)  
-![Top Language](https://img.shields.io/github/languages/top/Hussainshaik-devv/Netflix-Clone-Landing-Page)  
-![Languages Count](https://img.shields.io/github/languages/count/Hussainshaik-devv/Netflix-Clone-Landing-Page)  
-![License](https://img.shields.io/github/license/Hussainshaik-devv/Netflix-Clone-Landing-Page)  
+![Repo size](https://img.shields.io/github/repo-size/Hussainshaik-devv/Netflix-clone-landing-page)
+![Last commit](https://img.shields.io/github/last-commit/Hussainshaik-devv/Netflix-clone-landing-page)
+![Issues](https://img.shields.io/github/issues/Hussainshaik-devv/Netflix-clone-landing-page)
+![Top language](https://img.shields.io/github/languages/top/Hussainshaik-devv/Netflix-clone-landing-page)
+![Languages count](https://img.shields.io/github/languages/count/Hussainshaik-devv/Netflix-clone-landing-page)
+![License](https://img.shields.io/github/license/Hussainshaik-devv/Netflix-clone-landing-page)
 
 ---
 
